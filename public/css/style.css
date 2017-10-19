@@ -89,22 +89,15 @@ nav {
 
 }
 
-/*li {
-  height: 25px;
-  float: left;
-  margin-right: 0px;
-  border-right: 1px solid #aaa;
-  padding: 0 20px;
-
-}
-*/
 p {
   font-family: 'Coming Soon', cursive;
   padding: 30px 75px;
   text-align: justify;
   background-color: rgba(242, 122, 75, 0.5);
-  /*opacity: .5;*/
   border-radius: 20px;
+  margin:0 auto;
+  width: 60%;
+
 }
 
 .signUpForm {
