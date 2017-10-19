@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Coming+Soon|Freckle+Face|Reenie+Beanie');
+
 /*
 B4E33D green
 F27A4B orange
@@ -15,10 +16,12 @@ body {
   background: linear-gradient(to bottom, #475356, #E4E6C3, transparent), url(puppyh1.png) no-repeat bottom right;
   background-attachment: fixed;
 }
+
 .loginHeader {
   display: flex;
   justify-content: flex-end;
 }
+
 .login {
   font-family: 'Reenie Beanie', cursive;
   font-size: 20px;
@@ -26,26 +29,36 @@ body {
   border: 2px solid gray;
   border-radius: 10px;
 }
+
 .button, a {
   cursor: pointer;
 }
+
 .mainH1 {
+
   text-align: center;
   font-family: 'Freckle Face', cursive;
   font-size: 100px;
   color: #475356;
   text-shadow:    -1px -1px 0 #1BE7FF , 1px -1px 0 #1BE7FF , -1px 1px 0 #1BE7FF , 1px 1px 0 #1BE7FF ;
+
+
 }
+
 .mainH1, a {
     text-decoration: none;
+
 }
+
 .createAccountH1 {
   text-align: center;
   font-family: 'Freckle Face', cursive;
   font-size: 100px;
   color: #475356;
   text-shadow:    -1px -1px 0 #1BE7FF , 1px -1px 0 #1BE7FF , -1px 1px 0 #1BE7FF , 1px 1px 0 #1BE7FF ;
+
 }
+
 .logoTopLeft {
   text-align: left;
   font-family: 'Freckle Face', cursive;
@@ -55,6 +68,7 @@ body {
   text-decoration: none;
 /*  color: inherit;*/
 }
+
 nav {
   display: flex;
   justify-content: center;
@@ -65,19 +79,23 @@ nav {
   margin: 20px;
   padding: 0;
 }
+
 .navItem {
   font-family: 'Reenie Beanie', cursive;
   margin-left: 20px;
   width: auto;
   font-size: 24px;
   border-radius: 10px;
+
 }
+
 /*li {
   height: 25px;
   float: left;
   margin-right: 0px;
   border-right: 1px solid #aaa;
   padding: 0 20px;
+
 }
 */
 p {
@@ -88,6 +106,7 @@ p {
   /*opacity: .5;*/
   border-radius: 20px;
 }
+
 .signUpForm {
   display: flex;
   flex-direction: column;
@@ -97,15 +116,20 @@ p {
   margin-left: auto;
   margin-right: auto;
 }
+
 .signUpInfo {
   display: flex;
   justify-content: center;
   padding: 10px;
 }
+
+
+
 .signUpDiv {
   background-color: rgba(242, 122, 75, 0.5);
   border-radius: 20px;
 }
+
 .formInput {
   padding: 5px;
   margin: 10px;
@@ -113,7 +137,9 @@ p {
   color: #475356;
   border-radius: 10px;
 }
+
 /*additional classes home page and signup page*/
+
 footer {
   position:fixed;
   left:0px;
@@ -127,6 +153,7 @@ footer {
   width: 100px;
   height: 88px;
 }
+
 .appendDiv {
   max-width: 60%;
   text-align: center;
@@ -135,21 +162,26 @@ footer {
   align-content: flex-start;*/
   margin: auto;
 }
+
 .detail {
   display: inline-block;
 }
+
 .photo {
   float: left;
 }
+
 .detailcontainer {
   background-color: rgba(242, 122, 75, 0.5);
   border-radius: 10px;
 }
+
 h3 {
   font-size: 30px;
   font-family: 'Coming Soon', cursive;
   font-weight: bold;
 }
+
 h5 {
   font-size: 20px;
   font-family: 'Coming Soon', cursive;
