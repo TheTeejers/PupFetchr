@@ -15,11 +15,11 @@ for this app you need to npm install:
 
 ### Wireframe
 
-*[sitemap](https://github.com/TheTeejers/PupFetchr/blob/master/images/Sitemap.jpg)
-*[homepage](https://github.com/TheTeejers/PupFetchr/blob/master/images/Home%20Page.jpg)
-*[signup](https://github.com/TheTeejers/PupFetchr/blob/master/images/Sign%20Up%20Page.jpg)
-*[search](https://github.com/TheTeejers/PupFetchr/blob/master/images/Search%20Page.jpg)
-*[cart](https://github.com/TheTeejers/PupFetchr/blob/master/images/Cart.jpg)
+* [sitemap](https://github.com/TheTeejers/PupFetchr/blob/master/images/Sitemap.jpg)
+* [homepage](https://github.com/TheTeejers/PupFetchr/blob/master/images/Home%20Page.jpg)
+* [signup](https://github.com/TheTeejers/PupFetchr/blob/master/images/Sign%20Up%20Page.jpg)
+* [search](https://github.com/TheTeejers/PupFetchr/blob/master/images/Search%20Page.jpg)
+* [cart](https://github.com/TheTeejers/PupFetchr/blob/master/images/Cart.jpg)
 
 ### Authors
 
